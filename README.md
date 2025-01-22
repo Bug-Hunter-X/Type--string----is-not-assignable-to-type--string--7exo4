@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: assigning an array of strings to a variable or function parameter expecting a single string.  The `bug.ts` file shows the error, while `bugSolution.ts` provides a solution.
